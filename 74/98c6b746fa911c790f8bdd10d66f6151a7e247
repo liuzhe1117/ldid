@@ -1,0 +1,25 @@
+tests/architecture.cpp
+  s_f708d8a6b93240::t_aae07d1681ab4d 1-25
+ldid.cpp
+  s_f708d8a6b93240::t_aae07d1681ab4d 196,213,1485,1513-1515,1517-1518
+tests/README.md
+  s_f708d8a6b93240::t_aae07d1681ab4d 1-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "7498c6b746fa911c790f8bdd10d66f6151a7e247",
+  "prompts": {},
+  "logical_commit_id": "7498c6b746fa911c790f8bdd10d66f6151a7e247",
+  "sessions": {
+    "s_f708d8a6b93240": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a210ec-d111-71f0-b703-1d3fff66e581",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "刘哲 <liuzhe@bigo.sg>",
+      "total_additions": 45
+    }
+  }
+}
